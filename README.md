@@ -34,18 +34,18 @@ Each method in this class:
 **Methods to implement:**
 
 With `InputMismatchException`:
-
+``` java
 - `public static byte readByte(String message);`
 - `public static int readInt(String message);`
 - `public static float readFloat(String message);`
 - `public static double readDouble(String message);`
-
+```
 With custom `InputValidationException`:
 ``` java
 - `public static char readChar(String message);`
 - `public static String readString(String message);`
 - `public static boolean readYesOrNo(String message);`
-
+```
 ---
 
 ## 💻 Technologies Used
