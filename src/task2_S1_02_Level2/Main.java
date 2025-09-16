@@ -23,7 +23,7 @@ public class Main {
         System.out.println("You entered string: " + s);
 
         boolean yn = Entry.readYesOrNo("Do you want to continue?");
-        System.out.println("You answered: " + (yn ? "Yes" : "No"));
+
     }
 }
 
