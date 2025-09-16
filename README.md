@@ -73,4 +73,4 @@ Git + GitHub
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/2.1-Java-Exceptions-Level1-Level2.git
+   git clone https://github.com/christo256/S1.02---Exceptions---Level-1-2/edit/master/README.md
