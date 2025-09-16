@@ -41,7 +41,7 @@ With `InputMismatchException`:
 - `public static double readDouble(String message);`
 
 With custom `InputValidationException`:
-
+``` java
 - `public static char readChar(String message);`
 - `public static String readString(String message);`
 - `public static boolean readYesOrNo(String message);`
