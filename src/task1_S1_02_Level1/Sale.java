@@ -26,7 +26,7 @@ public class Sale {
 
     public double calculateTotal() throws EmptySaleException {
         if (products.isEmpty()) {
-            throw new EmptySaleException("To make a Sale, you need add products first.");
+            throw new EmptySaleException("Error: To make a Sale, you need add products first.");
         }
 
         totalPrice = 0.0;
