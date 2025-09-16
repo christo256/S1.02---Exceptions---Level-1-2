@@ -28,7 +28,6 @@ public class Sale {
         if (products.isEmpty()) {
             throw new EmptySaleException("Error: To make a Sale, you need add products first.");
         }
-
         totalPrice = 0.0;
         for (Product product : products) {
             totalPrice += product.getPrice();
