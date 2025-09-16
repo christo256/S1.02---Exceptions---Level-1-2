@@ -50,10 +50,13 @@ With custom `InputValidationException`:
 
 ## 💻 Technologies Used
 
-- Java 17+
-- IntelliJ IDEA / Eclipse
-- Git & GitHub
-- Maven (optional)
+Java 23
+
+IntelliJ IDEA (or any Java-compatible IDE)
+
+Git + GitHub
+
+.gitignore to manage unnecessary files
 
 ---
 
