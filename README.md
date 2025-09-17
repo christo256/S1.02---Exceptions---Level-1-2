@@ -73,4 +73,4 @@ Git + GitHub
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/christo256/S1.02---Exceptions---Level-1-2/edit/master/README.md
+   git clone https://github.com/christo256/S1.02---Exceptions---Level-1-2/tree/master
